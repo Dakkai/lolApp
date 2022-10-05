@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "watherApp",
-    "slug": "watherApp",
+    "name": "lolapi",
+    "slug": "lolapi",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,7 +24,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "lolApi.apk"
     },
     "web": {
       "favicon": "./assets/favicon.png"
